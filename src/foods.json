@@ -74,7 +74,7 @@
     "name": "Bacon",
     "calories": 175,
     "image": "https://i.imgur.com/7GlqDsG.jpg",
-    "servings": 1
+    "servings": 3
   },
   {
     "id": "bbfd30fd-cd75-4e3b-8fc8-3d3fd62a3c39",
@@ -109,7 +109,7 @@
     "name": "Banana",
     "calories": 175,
     "image": "https://i.imgur.com/BMdJhu5.jpg",
-    "servings": 1
+    "servings": 2
   },
   {
     "id": "62d8a0bc-1b77-4389-9e7b-2e00cace6a2e",
